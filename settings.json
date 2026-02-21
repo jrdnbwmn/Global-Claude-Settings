@@ -1,0 +1,47 @@
+{
+  "model": "opus",
+  "hooks": {
+    "PermissionRequest": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cf-approve permission"
+          }
+        ]
+      }
+    ]
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "npx -y ccstatusline@latest",
+    "padding": 0
+  },
+  "enabledPlugins": {
+    "context7@claude-plugins-official": true,
+    "playwright@claude-plugins-official": true,
+    "ruby-skills@ruby-skills": true,
+    "ruby-lsp@ruby-skills": true,
+    "superpowers@claude-plugins-official": true,
+    "commit-commands@claude-plugins-official": true,
+    "github@claude-plugins-official": true,
+    "firecrawl@claude-plugins-official": false
+  },
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem"],
+      "env": {
+        "ACCESS_DIRECTORIES": "/Users/jrdnbwmn/Documents/Repos"
+      }
+    },
+    "github": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "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"
+      }
+    }
+  }
+}
