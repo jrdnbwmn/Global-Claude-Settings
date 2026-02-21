@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "plugins": {
+    "context7@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/jordan/.claude/plugins/cache/claude-plugins-official/context7/aa296ec81e8c",
+        "version": "aa296ec81e8c",
+        "installedAt": "2026-02-10T20:18:51.372Z",
+        "lastUpdated": "2026-02-20T18:13:35.470Z",
+        "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
+      }
+    ],
+    "playwright@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/jordan/.claude/plugins/cache/claude-plugins-official/playwright/aa296ec81e8c",
+        "version": "aa296ec81e8c",
+        "installedAt": "2026-02-10T20:22:12.160Z",
+        "lastUpdated": "2026-02-20T18:13:35.473Z",
+        "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
+      }
+    ],
+    "superpowers@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/jordan/.claude/plugins/cache/claude-plugins-official/superpowers/4.3.0",
+        "version": "4.3.0",
+        "installedAt": "2026-02-10T20:31:01.529Z",
+        "lastUpdated": "2026-02-12T23:09:38.486Z",
+        "gitCommitSha": "a98c5dfc9de0df5318f4980d91d24780a566ee60"
+      }
+    ],
+    "ruby-skills@ruby-skills": [
+      {
+        "scope": "user",
+        "installPath": "/Users/jordan/.claude/plugins/cache/ruby-skills/ruby-skills/0.5.0",
+        "version": "0.5.0",
+        "installedAt": "2026-02-10T20:32:47.487Z",
+        "lastUpdated": "2026-02-10T20:32:47.487Z",
+        "gitCommitSha": "ca8fc8af6be23103762e687ff94a4d1ba216ec49"
+      }
+    ],
+    "ruby-lsp@ruby-skills": [
+      {
+        "scope": "user",
+        "installPath": "/Users/jordan/.claude/plugins/cache/ruby-skills/ruby-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-02-10T20:32:47.487Z",
+        "lastUpdated": "2026-02-10T20:32:47.487Z",
+        "gitCommitSha": "ca8fc8af6be23103762e687ff94a4d1ba216ec49"
+      }
+    ],
+    "commit-commands@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/jordan/.claude/plugins/cache/claude-plugins-official/commit-commands/aa296ec81e8c",
+        "version": "aa296ec81e8c",
+        "installedAt": "2026-02-10T20:36:05.022Z",
+        "lastUpdated": "2026-02-20T18:13:35.472Z",
+        "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
+      }
+    ],
+    "github@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/jordan/.claude/plugins/cache/claude-plugins-official/github/aa296ec81e8c",
+        "version": "aa296ec81e8c",
+        "installedAt": "2026-02-10T20:59:28.861Z",
+        "lastUpdated": "2026-02-20T18:13:35.473Z",
+        "gitCommitSha": "2cd88e7947b7382e045666abee790c7f55f669f3"
+      }
+    ],
+    "firecrawl@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/jordan/.claude/plugins/cache/claude-plugins-official/firecrawl/1.0.3",
+        "version": "1.0.3",
+        "installedAt": "2026-02-20T18:28:47.193Z",
+        "lastUpdated": "2026-02-20T18:28:47.193Z",
+        "gitCommitSha": "684b975c8cc6bd0fcfa96f787900bf87fffeef57"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "/Users/jordan/.claude/plugins/marketplaces/claude-plugins-official",
+    "lastUpdated": "2026-02-20T20:04:01.151Z"
+  },
+  "ruby-skills": {
+    "source": {
+      "source": "github",
+      "repo": "st0012/ruby-skills"
+    },
+    "installLocation": "/Users/jordan/.claude/plugins/marketplaces/ruby-skills",
+    "lastUpdated": "2026-02-10T20:29:27.679Z"
+  }
+}
